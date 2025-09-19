@@ -1,8 +1,8 @@
-# Toden-E 
+# GOLDEN-F
 This code release accompanies the following paper:
 
 
-## Toden-E: Topology-Based and Density-Based Ensembled Clustering for the Development of Super-PAG in Functional Genomics using PAG Network and LLM 
+## GOLDEN-F: Topology-Based and Density-Based Ensembled Clustering for the Development of Super-PAG in Functional Genomics using PAG Network and LLM 
 
 Qi Li, Cody Nichols, Robert S Welner, Jake Y. Chen, Wei-Shinn Ku1 and Zongliang Yue
 
