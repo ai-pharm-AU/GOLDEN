@@ -4,7 +4,7 @@ This code release accompanies the following paper:
 
 ## GOLDEN-F: Graph-Oriented Learning with Domain-Embedding Network Fusion for Super-PAG Development in Functional Genomics
 
-Qi Li, Cody Nichols, Robert S Welner, Jake Y. Chen, Wei-Shinn Ku1 and Zongliang Yue
+Qi Li, Cody Nichols, Robert S Welner, Jake Y. Chen, Wei-Shinn Ku and Zongliang Yue
 
 ### Abstract
 <sup>Motivation: The integrative analysis of gene sets, networks, and pathways is pivotal for deciphering omics data in translational biomedical research. To significantly increase gene coverage and enhance the utility of pathways, annotated gene lists, and gene signatures from diverse sources, we introduced pathways, annotated gene lists, and gene signatures (PAGs) enriched with metadata to represent biological functions. Furthermore, we established PAG-PAG networks by leveraging gene member similarity and gene regulations. However, in practice, high similarity in descriptions and gene membership often produces redundant, lengthy PAG lists, leading to geneset enrichment results that are difficult to interpret.
