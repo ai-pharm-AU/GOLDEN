@@ -17,15 +17,15 @@ Results: We present GOLDEN (Graph-Oriented Learning with Domain-Embedding Networ
 1) Clone the repo:  
 
 ```bash
-git clone https://github.com/ai-pharm-AU/Toden-E.git
+git clone https://github.com/ai-pharm-AU/GOLDEN.git
 ```
 
 2) Install the Python packages (we used Python 3.10): 
 
 ```bash
-cd Toden-E
+cd GOLDEN
 conda env create -f environment.yml
-conda activate toden_e
+conda activate golden
 ```
 
 ## Running GOLDEN fusion
@@ -33,26 +33,26 @@ conda activate toden_e
 1) Discover the super-pags with a list of gene:
 
 ```python
-python toden_e.py --func super_pag --file_path file_name.txt
+python golden.py --func super_pag --file_path file_name.txt
 ```
 
 2) Compute the Dipartion Score: 
 
 ```
-python toden_e.py --func dipartion_score --file_path file_name.txt
+python golden.py --func dipartion_score --file_path file_name.txt
 
 ```
 
 3) Visualizaiton for the super-pags
 
 ```
-python toden_e.py --func vis --clusering_results_path predict_results.csv
+python golden.py --func vis --clusering_results_path predict_results.csv
 
 ```
 
 4) Summerization for the super-pags
 
 ```
-python toden_e.py --func summerization --clusering_results_path predict_results.csv
+python golden.py --func summerization --clusering_results_path predict_results.csv
 
 ```
