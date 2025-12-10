@@ -2,7 +2,7 @@
 This code release accompanies the following paper:
 
 
-## GOLDEN: Graph-Oriented Learning with Domain-Embedding Network Fusion for Super-PAG Development in Functional Genomics
+## GOLDEN Fusion: Graph-Oriented Learning with Domain-Embedding Network Fusion for Super-PAG Development in Functional Genomics
 
 Qi Li, Cody Nichols, Robert S Welner, Jake Y. Chen, Wei-Shinn Ku and Zongliang Yue
 
